@@ -33,11 +33,11 @@ namespace EasyDataReader
             {
                 objlist.Add(new
                 {
-                    JobId = DbReader.GetSafeInt32(0),
-                    name = DbReader.GetSafeInt32(1),
-                    xml = DbReader.GetSafeMoney(2),
-                    bindata = DbReader.GetSafeInt16(3),
-                    size = DbReader.GetSafeReal(4)
+                    Data1 = DbReader.GetSafeInt32(0),
+                    Data2 = DbReader.GetSafeInt32(1),
+                    Data3 = DbReader.GetSafeMoney(2),
+                    Data4 = DbReader.GetSafeInt16(3),
+                    Data5 = DbReader.GetSafeReal(4)
                 });
             }
             return objlist;
