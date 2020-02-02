@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
-Microsoft.SqlServer.Management.Smo;  
 
 namespace EasyDataReader
 {
