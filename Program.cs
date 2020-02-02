@@ -13,8 +13,8 @@ namespace EasyDataReader
             SqlConnectionStringBuilder SqlConnectionStringBuilder = new SqlConnectionStringBuilder()
             {
                 ConnectTimeout = 200,
-                UserID = "sa",
-                Password = "42Gears@123",
+                UserID = "",
+                Password = "",
                 InitialCatalog = "Northwind",
                 DataSource = @"LOCALHOST\SQLEXPRESS"
             };
