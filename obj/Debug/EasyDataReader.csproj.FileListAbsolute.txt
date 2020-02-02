@@ -1,0 +1,7 @@
+c:\users\sanjay.arakeri\documents\visual studio 2015\Projects\EasyDataReader\EasyDataReader\bin\Debug\EasyDataReader.exe.config
+C:\Users\sanjay.arakeri\Documents\Visual Studio 2015\Projects\EasyDataReader\EasyDataReader\bin\Debug\EasyDataReader.exe
+C:\Users\sanjay.arakeri\Documents\Visual Studio 2015\Projects\EasyDataReader\EasyDataReader\bin\Debug\EasyDataReader.pdb
+C:\Users\sanjay.arakeri\Documents\Visual Studio 2015\Projects\EasyDataReader\EasyDataReader\obj\Debug\EasyDataReader.exe
+C:\Users\sanjay.arakeri\Documents\Visual Studio 2015\Projects\EasyDataReader\EasyDataReader\obj\Debug\EasyDataReader.pdb
+C:\Users\sanjay.arakeri\Documents\Visual Studio 2015\Projects\EasyDataReader\EasyDataReader\bin\Debug\CodingCoder.Data.dll
+C:\Users\sanjay.arakeri\Documents\Visual Studio 2015\Projects\EasyDataReader\EasyDataReader\obj\Debug\EasyDataReader.csprojResolveAssemblyReference.cache
